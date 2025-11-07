@@ -6,4 +6,4 @@ Day 3- Tuples, Sets and Its Methods
 
 Day 4- Dictionary, Frozenset, Conditional Statements and Operators
 
-Day 5- Loops and Functions
+Day 5- Loops and Functions.
